@@ -18,5 +18,11 @@ img {
 /* Voeg jouw css hieraan toe */
 
 th{
-    width:200px
+    width:200px;
+    background-color:rgb(29, 199, 72);
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+}
+td{
+    background-color:hsla(135, 57%, 62%, 1)
 }
