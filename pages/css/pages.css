@@ -9,6 +9,7 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
+
 }
 
 img {
@@ -25,4 +26,24 @@ th{
 }
 td{
     background-color:hsla(135, 57%, 62%, 1)
+}
+/*    font-family: 'Roboto Slab', serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;*/
+
+.title{
+    font-family: 'Roboto Slab', serif;
+    font-size:24px;
+    font-weight:700;
+}
+.subtitle{
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+}
+.description{
+    font-family: 'Roboto Slab', serif;
+    font-size:12px;
+}
+.chattext{
+    font-family: 'Yanone Kaffeesatz', 'sans-serif';
+    font-size: 14px;
 }
